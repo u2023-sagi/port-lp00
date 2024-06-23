@@ -269,7 +269,7 @@ h3 {
 
 }
 #about .box {
-  background: url(../img/bg.png) no-repeat center/cover;
+  background: url(img/bg.png) no-repeat center/cover;
 
   margin-left: -5.33vw;
   margin-right: -5.33vw;
@@ -573,7 +573,7 @@ h3 {
         faq
 ---------------------  */
 #faq .wrapper{
-  background:url(../img/bg3.png) no-repeat right center/cover;
+  background:url(img/bg3.png) no-repeat right center/cover;
 
   padding: 1.5rem 5.33vw 3rem 5.33vw;
 }
